@@ -1,0 +1,10 @@
+D:\SubsistenceSaveManager\SubsistenceSaveManager\bin\Debug\SubsistenceSaveManager.exe.config
+D:\SubsistenceSaveManager\SubsistenceSaveManager\bin\Debug\SubsistenceSaveManager.exe
+D:\SubsistenceSaveManager\SubsistenceSaveManager\bin\Debug\SubsistenceSaveManager.pdb
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.csprojAssemblyReference.cache
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.Form1.resources
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.Properties.Resources.resources
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.csproj.GenerateResource.cache
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.csproj.CoreCompileInputs.cache
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.exe
+D:\SubsistenceSaveManager\SubsistenceSaveManager\obj\Debug\SubsistenceSaveManager.pdb
