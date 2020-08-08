@@ -13,5 +13,30 @@ Once you open the application for the first time, it will automatically create t
 
 It will also try to automatically find your Subsistence folder under the directory 'C:/Program Files/Steam/steamapps/common/Subsistence', if it cannot find this directory it will prompt you to select you Subsistence folder. 
 
+Once you are in the main window you have completed the install, and it will automatically save the directory!
 
+# How to use
+You will be greeted with multiple options, and I hope to provide an explaination for all of them.
+
+Create Backup -
+Creates a backup of your current game state, including all your different profiles.
+
+Delete All Backups -
+Deletes all saved backups.
+
+Delete Backup -
+Deletes the currently selected backup.
+
+Restore Backup - 
+Takes your currently selected backup, and replaces the current game save with said backup.
+
+Change Name - 
+(Visual Only) Changes the backup name.
+
+# Support
+If you have any questions feel free to DM on Discord, I am also active on the subsistence Discord.
+vExo307#5145
+
+# License
+GNU GPL v3
 
